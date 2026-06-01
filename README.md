@@ -32,7 +32,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashwanthdev5&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashwanthdev5\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Technical Skills
 
@@ -55,6 +55,9 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+
+[![Yashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashwanthdev5&theme=tokyo-night)](https://github.com/yashwanthdev5)
 
 ## 🤖 AI & Prompt Engineering
 
@@ -158,9 +161,7 @@ Improving every month.
 Growing every year.
 
 ---
-## 📈 Contribution Graph
 
-[![Yashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashwanthdev5&theme=tokyo-night)](https://github.com/yashwanthdev5)
 
 ## ⚡ Fun Fact
 
