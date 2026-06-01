@@ -132,9 +132,9 @@ while(!success) {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthdev5\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthdev5\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -158,9 +158,9 @@ I enjoy combining Software Development + AI tools to learn faster, build smarter
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: Add Your LinkedIn URL
+💼 LinkedIn: linkedin.com/in/yashwanth-devarakonda-214a442a2
 
-📧 Email: Add Your Email
+📧 Email: yashwanthdevarakonda1205@gmail.com
 
 🌐 Portfolio: Coming Soon 🚀
 
