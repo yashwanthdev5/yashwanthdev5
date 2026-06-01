@@ -1,92 +1,169 @@
-# Hi 👋, I'm Yashwanth
+# <h1 align="center">Hi 👋, I'm Yashwanth</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=M.Tech+Student;Aspiring+Full+Stack+Developer;Java+Developer+in+Progress;AI+Enthusiast;Building+Projects+Every+Day;Learning+%E2%86%92+Building+%E2%86%92+Growing+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+</p>
+
+<h3 align="center">🚀 Climbing one step at a time toward becoming a successful Software Developer</h3>
+
+---
+
+## 👨‍💻 About Me
 
 🎓 M.Tech Student
-💻 Aspiring Full Stack Java Developer
-🚀 Currently learning Java, OOPs, DSA and Backend Development
-🌱 Building projects while learning
-🎯 Goal: Crack Software Development roles and become industry-ready
+
+💻 Aspiring Full Stack Developer
+
+🚀 Passionate about Software Development and AI
+
+🌱 Currently learning Java, DSA, System Design, and Backend Development
+
+🤖 Using AI tools to accelerate learning and development
+
+🎯 Goal: Become an industry-ready Full Stack Developer
 
 ---
 
-## 🚀 About Me
+## 🛠️ Technical Skills
 
-- 🔭 Currently working on Java Mini Projects
-- 🌱 Learning Java, OOPs, Collections, DSA
-- 📚 Preparing for Placements
-- 💡 Interested in Full Stack Development
-- 🎯 Goal for 2026: Become a Job-Ready Java Developer
+### Programming Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
+</p>
 
-## 🛠️ Tech Stack
+### Database
 
-### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Tools & Platforms
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🤖 AI & Prompt Engineering
 
-- Core Java
-- Object Oriented Programming
-- Collections Framework
-- DSA
-- Git & GitHub
-- SQL
+✅ Good at Prompt Engineering
+
+✅ Efficiently use AI for learning and development
+
+✅ Building websites and projects using AI-assisted workflows
+
+### AI Tools I Use
+
+* ChatGPT
+* Claude AI
+* Gemini AI
+* NotebookLM
+
+---
+
+## 📚 Computer Science Fundamentals
+
+I have a solid understanding of:
+
+* Operating Systems
+* Computer Networks (Basics)
+* Database Management Systems (DBMS)
+* Object-Oriented Programming
+* Software Development Fundamentals
+
+---
+
+## 🌱 Currently Learning
+
+* Core Java
+* Advanced OOP Concepts
+* Collections Framework
+* Data Structures & Algorithms
+* SQL
+* Spring Boot
+* Full Stack Development
+
+---
+
+## 🚀 What I'm Building
+
+📌 Java Learning Projects
+
+📌 Mini Java Applications
+
+📌 DSA Problem Solving Repository
+
+📌 AI-Assisted Websites
+
+📌 Future Full Stack Projects
 
 ---
 
 ## 🎯 2026 Goals
 
-- Complete Java Roadmap
-- Master DSA
-- Build 10+ Projects
-- Learn Spring Boot
-- Get Software Developer Role
+* Complete Java Roadmap
+* Master DSA
+* Build 15+ Projects
+* Learn Spring Boot
+* Create Full Stack Applications
+* Secure a Software Development Role
 
 ---
 
-## 📂 Featured Projects
+## 💡 My Developer Mindset
 
-### 🔹 Java Mini Projects
-
-A collection of Java projects built during my learning journey.
-
-### 🔹 DSA Practice Repository
-
-Contains coding problems and solutions.
-
-### 🔹 Future Full Stack Projects
-
-Coming Soon 🚀
+```java
+while(!success) {
+    learn();
+    practice();
+    buildProjects();
+    improve();
+    repeat();
+}
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 Current Mission
 
-```java
-while(!success){
-    learn();
-    buildProjects();
-    practiceDSA();
-    improve();
-}
+Learning every day.
 
+Building every week.
 
+Improving every month.
+
+Growing every year.
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy combining Software Development + AI tools to learn faster, build smarter, and turn ideas into real projects.
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: Add Your LinkedIn URL
+
+📧 Email: Add Your Email
+
+🌐 Portfolio: Coming Soon 🚀
+
+---
+
+<h3 align="center">⭐ "Small improvements every day lead to big results." ⭐</h3>
