@@ -11,6 +11,9 @@
 <h3 align="center">🚀 Climbing one step at a time toward becoming a successful Software Developer</h3>
 
 ---
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=yashwanthdev5&color=blueviolet)
 
 ## 👨‍💻 About Me
 
@@ -27,6 +30,9 @@
 🎯 Goal: Become an industry-ready Full Stack Developer
 
 ---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashwanthdev5&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Technical Skills
 
@@ -134,7 +140,10 @@ while(!success) {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthdev5\&show_icons=true\&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=yashwanthdev5\&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthdev5\&layout=compact\&theme=tokyonight)
+
 
 ---
 
@@ -149,6 +158,9 @@ Improving every month.
 Growing every year.
 
 ---
+## 📈 Contribution Graph
+
+[![Yashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashwanthdev5&theme=tokyo-night)](https://github.com/yashwanthdev5)
 
 ## ⚡ Fun Fact
 
