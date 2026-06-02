@@ -30,9 +30,7 @@
 🎯 Goal: Become an industry-ready Full Stack Developer
 
 ---
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Technical Skills
 
